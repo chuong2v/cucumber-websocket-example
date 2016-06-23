@@ -1,4 +1,3 @@
-var lodash = require('lodash');
 var chai = require('chai');
 var assert = chai.assert;
 var Promise = require('bluebird');
